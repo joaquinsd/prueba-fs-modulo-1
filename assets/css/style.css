@@ -1,0 +1,34 @@
+.font-logo{
+      font-family: "Alata", "sans-serif";
+      color: #000000;
+}
+.nav-bg{
+    background: #e1ad01;
+}
+.cover-section {
+    text-align: center;
+    background-image: url('../img/cover.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #FFFFFF;
+    padding-top: 30.25rem;
+    padding-right: 3.125rem;
+    padding-left: 3.125rem;
+}
+.cover-section h2{
+    font-family: "Montserrat", "sans-serif";
+    font-weight: 200;
+    margin-bottom: 0em;
+}
+h1{
+    font-family: "Montserrat", "sans-serif";
+    font-weight: 700;
+    border-top-color: #FFFFFF;
+    margin-top: 0em;
+}
+.exper-1{
+    width: 25%;
+}
+.exper-2{
+    width: 40%;
+}
