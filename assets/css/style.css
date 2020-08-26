@@ -35,3 +35,20 @@ h1{
 .border-none{
     border: 0;
 }
+.icons-section .footer-text,
+.icons-section .icons-img {
+    display: inline-block;
+}
+.footer-text{
+    font-family: "Alata", "sans-serif";
+    color: #000000;
+    font-size: 2em;
+}
+.icons-img{
+    font-size: 0.5em;
+    fill: #000000;
+}
+.icons-img a{
+    text-decoration: none;
+
+}
