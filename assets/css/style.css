@@ -30,7 +30,7 @@ h1{
     width: 25%;
 }
 .exper-2{
-    width: 40%;
+    height: 5em;
 }
 .border-none{
     border: 0;
@@ -50,4 +50,18 @@ h1{
 }
 .icons-img a{
     text-decoration: none;
+    color: #000000;
 }
+
+.carousel-indicators {
+    top: 120px;
+}
+.carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    border: 0;
+
+    background: #373A3C;
+
+}   
