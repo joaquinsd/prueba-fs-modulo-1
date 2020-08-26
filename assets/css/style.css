@@ -32,3 +32,6 @@ h1{
 .exper-2{
     width: 40%;
 }
+.border-none{
+    border: 0;
+}
